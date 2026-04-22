@@ -93,6 +93,12 @@ Use publicly available historical climate datasets such as:
 * Real-world project deployment workflow
 
 ---
+## 📂 Dataset
+
+The dataset files are hosted externally due to GitHub file size limits.
+
+📥 Download Dataset Here:
+https://drive.google.com/drive/u/0/folders/106aoCF0X1rXPxY7RzPL9XGRI6i2YaGEB
 
 ## 👨‍💻 Author
 
